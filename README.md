@@ -20,6 +20,7 @@ tento ser eficiente e eficaz em tudo que faço. A minha principal qualidade é a
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
   ![LARAVEL](https://img.shields.io/badge/Laravel-333333?style=flat&logo=LARAVEL)
+  ![REACT](https://img.shields.io/badge/react-333333?style=flat&logo=REACT)
   
   
 
