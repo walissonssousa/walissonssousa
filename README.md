@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=walissonssousa&color=006bed)
 
 <h3> :man: &nbsp;Meu nome e walisson, 
-Sou um profissional flexível, educado, proativo, tenho iniciativa e habilidade em resolver conflitos, 
-tento ser eficiente e eficaz em tudo que faço. A minha principal qualidade é a facilidade em aprender. </h3>
+ </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas ** na <a href="https://estacio.br/">ESTÁCIO</a>.
