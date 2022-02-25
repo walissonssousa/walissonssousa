@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas ** na <a href="https://estacio.br/">ESTÁCIO</a>.
 - 💼 &nbsp; Trabalhando como **ESTAGIÁRIO /ARQUITETURA DE SOFTWARE** no <a href="https://www.gov.br/mec/pt-br">MINISTÉRIO DA EDUCAÇÃO</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript,React**
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript,React,Nextjs**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
