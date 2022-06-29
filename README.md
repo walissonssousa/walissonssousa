@@ -1,7 +1,13 @@
-![](https://komarev.com/ghpvc/?username=walissonssousa&color=006bed)
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello explorers, I am Walisson Sousa</h1>
 
-<h3> :man: &nbsp;Meu nome e walisson, 
- </h3>
+![](https://komarev.com/ghpvc/?username=marcovicar)
+
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas ** na <a href="https://estacio.br/">ESTÁCIO</a>.
